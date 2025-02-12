@@ -2,7 +2,7 @@
 
 A lightweight timezone lookup library for Dart. Applies lossy compression, accuracy is naturally lower than other other implementations. 
 
-This is mostly a Dart port of currently archived [tz-lookup-oss](https://github.com/darkskyapp/tz-lookup-oss). 
+This is mostly a Dart port of currently archived [tz-lookup-oss](https://github.com/darkskyapp/tz-lookup-oss) and up-to-date fork [tz-lookup](https://github.com/photostructure/tz-lookup). 
 
 Usage
 -------

@@ -1,6 +1,6 @@
 #!/bin/bash
 set -ex
-TZ="2019b"
+TZ="2025a"
 
 # Remove the dist directory if it exists, then recreate it
 rm -rf dist

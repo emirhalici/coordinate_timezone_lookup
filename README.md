@@ -24,7 +24,7 @@ $ brew install gdal # on Mac OS X
 $ sudo apt install gdal-bin # on Ubuntu
 ```
 
-Then, simply execute `rebuild.sh` under `tool` directory. Expect it to take 10-30 minutes, depending on your network connection and CPU. 
+Then, simply execute `rebuild.sh` under `tool` directory. Expect it to take 2-15 minutes, depending on your network connection and CPU. 
 
 [tbb]: https://github.com/evansiroky/timezone-boundary-builder/
 [nev]: https://github.com/nvkelso/natural-earth-vector/
